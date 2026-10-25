@@ -4,14 +4,16 @@
 
 <p align="center">
   <a href="https://akdenizos.org">
-    <img src="https://img.shields.io/badge/WEBSITE-akdenizos.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="akdenizos.org" height="56">
+    <img src="https://img.shields.io/badge/WEBSITE-akdenizos.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="akdenizos.org" height="80">
   </a>
 </p>
 
-![Repos](https://img.shields.io/badge/Repositories-99+-blue)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
-![Education](https://img.shields.io/badge/Focus-Education-orange)
-![Location](https://img.shields.io/badge/Location-Turkey-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-99+-blue" alt="Repos">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source">
+  <img src="https://img.shields.io/badge/Focus-Education-orange" alt="Education">
+  <img src="https://img.shields.io/badge/Location-Antalya-red" alt="Location">
+</p>
 
 Merhaba! Bu `AkdenizOS` GitHub organizasyonu, Akdeniz Üniversitesi Bilgisayar Mühendisliği bölümü öğrencileri için ders notları, örnek sınavlar, laboratuvar çalışmaları, projeler ve diğer faydalı akademik kaynakları bir araya getiren merkezi bir platformdur. Amacımız, öğrencilerin ders materyallerine kolayca erişmesini sağlamak ve birbirimizin akademik gelişimine katkıda bulunmaktır.
 
