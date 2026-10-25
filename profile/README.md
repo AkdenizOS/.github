@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<details align="center">
+  <summary><sub>Bu buton neden bu kadar büyük?</sub></summary>
+  <br>
+  <img src="kocaman-yap.png" alt="guccuk hala, gucuman yap, dikkat ceksin" width="420">
+</details>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-99+-blue" alt="Repos">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source">
