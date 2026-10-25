@@ -5,6 +5,13 @@
 
 > Akdeniz Üniversitesi Bilgisayar Mühendisliği öğrencileri için açık kaynak eğitim platformu
 
+<p align="center">
+  <a href="https://akdenizos.org">
+    <img src="https://img.shields.io/badge/WEBSITE-akdenizos.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="akdenizos.org" height="56">
+  </a>
+</p>
+<h2 align="center"><a href="https://akdenizos.org">🌐 akdenizos.org</a></h2>
+
 ![Repos](https://img.shields.io/badge/Repositories-99+-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
 ![Education](https://img.shields.io/badge/Focus-Education-orange)
