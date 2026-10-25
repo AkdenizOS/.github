@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://akdenizos.org">
-    <img src="https://img.shields.io/badge/WEBSITE-akdenizos.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="akdenizos.org" height="80">
+    <img src="https://img.shields.io/badge/WEBSITE-akdenizos.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="akdenizos.org" width="100%">
   </a>
 </p>
 
