@@ -1,6 +1,3 @@
-> 📬 İletişim için [efekurucay.com](https://efekurucay.com) adresini ziyaret edebilir veya `contact@efekurucay.com` adresine e-posta gönderebilirsiniz.
-
-
 # 🎓 AkdenizOS 🌐
 
 > Akdeniz Üniversitesi Bilgisayar Mühendisliği öğrencileri için açık kaynak eğitim platformu
@@ -45,6 +42,8 @@ Bu kaynakları daha da zenginleştirmek için topluluğun yardımına açığız
 1.  İlgili dersin deposuna gidin.
 2.  Katkınızı açıklayan bir **Issue** açın veya doğrudan bir **Pull Request** gönderin.
 3.  Eğer eklemek istediğiniz dersin deposu yoksa veya organizasyona üye olmak isterseniz, organizasyon yöneticileriyle iletişime geçebilirsiniz.
+
+> 📬 İletişim için [efekurucay.com](https://efekurucay.com) adresini ziyaret edebilir veya `contact@efekurucay.com` adresine e-posta gönderebilirsiniz.
 
 Her türlü katkı değerlidir!
 
