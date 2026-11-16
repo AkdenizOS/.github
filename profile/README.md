@@ -1,4 +1,4 @@
-# 🎓 AkdenizOS 🌐
+# 🎓 AkdenizOS 🌴
 
 > Akdeniz Üniversitesi Bilgisayar Mühendisliği öğrencileri için açık kaynak eğitim platformu
 
